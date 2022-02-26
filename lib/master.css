@@ -1,0 +1,44 @@
+html, body{
+    font-family: 'Roboto', sans-serif !important;
+}
+.body-fipe{
+    background-color: #EDEDED;
+}
+.conteudo{
+    width: 60%;
+    margin: 10vh 20%;
+    background-color: #FFFF;
+    padding: 3vw;
+    border-radius: 1em 1em 0 0;
+    box-shadow:         4px 4px 14px 0px rgba(50, 50, 50, 0.55);
+}
+.conteudo h2{
+    text-align: center;
+    font-size: 2em;
+    padding: 15px;
+}
+.conteudo input{
+    width: 30vw !important;
+}
+.conteudo a{
+    margin: 15px 10px;
+    width: 100px;
+    border: 1px solid #c9c7c7;
+    text-decoration: none;
+}
+#btn-sub{
+    margin: 15px 0;
+    width: 100px;
+}
+@media all and (max-width: 500px){
+    .conteudo{
+        width: 90%;
+        margin: 10vh 5%;
+        background-color: #FFFF;
+        padding: 8vw;
+    }
+    .conteudo h2{
+        text-align: center;
+        font-size: 1.8em;
+    }
+}
