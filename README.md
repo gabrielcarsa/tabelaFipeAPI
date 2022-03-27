@@ -32,3 +32,11 @@ Tem um arquivo de estilo CSS mas é só para melhor a aparência de alguns eleme
 - resultado.php 
 
 ![FireShot Capture 005 - Hello, world! - localhost](https://user-images.githubusercontent.com/63206031/155850773-ac336475-6450-4b55-9eff-65a74a8e90a1.png)
+
+### Contato
+<div align="center"> 
+  <a href="https://instagram.com/gabrielhcardoso_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabrielcardsantos2016@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabrielcardos0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
